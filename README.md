@@ -4,6 +4,6 @@ Welcome to my professional portfolio page! This site will give you more informat
 
 This portfolio was made using HTML and CSS with links to additional projects using JavaScript and more!
 
-Check out my portfolio here: [Taylor Dougherty Portfolio](https://taydougherty.github.io/Professional-Portfolio/#home)
+Check out my portfolio [here.](https://taydougherty.github.io/Professional-Portfolio/#home)
 
 
