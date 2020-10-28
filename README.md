@@ -6,4 +6,4 @@ Check out some of my projects and learn more about me!
 
 ### :computer: Technologies Featured
 
-HTML, CSS, JavaScript, Node.js, MySQL, D3 Visualization, Google Charts
+HTML, CSS, JavaScript, Vue.js, Node.js, MySQL, PostgresQL, D3 Visualization, Google Charts
